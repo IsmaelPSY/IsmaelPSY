@@ -4,9 +4,15 @@
   <img src="https://media.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif" />
  </div>
 
-**Thi is IsmaelPSY** a young peruvian dev who ✨ _loves js and programming_ ✨. And this is his repo.
+**Hello, I'm Ismael Sanchez** 🌟
 
-- 🔭 I’m about to finish engineered systems career..
-- 🌱 Currently learning Backend with Nodejs ...
+I'm a systems engineer, web developer, and self-learner. Here's a bit about me:
 
-## portfolio: https://deskrel-portfolio.netlify.app/
+- My favorite programming language is Elixir, although I'm also skilled in JavaScript and currently learning TypeScript. 💻
+- Professionally, I specialize in backend development, but I also enjoy working on frontend projects in my personal and freelance work. My goal is to master all aspects of web development, including DevOps. 🚀
+- I'm always open to new opportunities and projects. I thrive on challenges and love exploring new technologies. 💡
+- I'm a proud father of a beautiful 2-year-old baby and a lucky husband to an amazing woman. Together, the three of us are taking steps forward in life. 👪
+
+If you'd like to know more about me, feel free to reach out to my personal email at ismaelpsy.12@gmail.com. I'd be happy to connect with you! 📧
+
+Thank you! Greetings! 🌟
